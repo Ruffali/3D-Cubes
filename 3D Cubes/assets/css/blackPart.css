@@ -1,0 +1,24 @@
+#blackPart {
+  background-color: black; }
+  #blackPart .container-fluid .row .col-md-6 .reserved {
+    padding: 5%;
+    padding-bottom: 2%; }
+    #blackPart .container-fluid .row .col-md-6 .reserved h4 {
+      color: white;
+      font-size: 1.5ch; }
+      #blackPart .container-fluid .row .col-md-6 .reserved h4 span {
+        color: #3773af;
+        margin: 0% 1%;
+        cursor: pointer; }
+  #blackPart .container-fluid .row .col-md-6 .cards {
+    text-align: right;
+    padding: 5%;
+    padding-bottom: 2%; }
+    #blackPart .container-fluid .row .col-md-6 .cards ul li {
+      display: inline-block;
+      margin: 0% 1%; }
+      #blackPart .container-fluid .row .col-md-6 .cards ul li img {
+        display: inline-block;
+        width: 100%; }
+
+/*# sourceMappingURL=blackPart.css.map */

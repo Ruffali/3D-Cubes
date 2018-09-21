@@ -1,0 +1,39 @@
+#sideSocial {
+  position: fixed;
+  bottom: 50%;
+  right: -85%;
+  height: 41px;
+  width: 87.5%; }
+  #sideSocial .sideSocial ul li {
+    margin-bottom: 0.1%;
+    transition: all 0.2s linear; }
+    #sideSocial .sideSocial ul li a {
+      padding-left: 0.5%;
+      background: #e6e6e6;
+      width: 5%;
+      height: 35px;
+      display: block;
+      text-decoration: none;
+      color: #b1b0b0;
+      transition: all 0.2s linear; }
+      #sideSocial .sideSocial ul li a i {
+        font-size: 2em;
+        transition: all 0.2s linear; }
+    #sideSocial .sideSocial ul li:hover a {
+      color: white; }
+    #sideSocial .sideSocial ul li:hover:nth-child(1) a {
+      background: #3b5999; }
+    #sideSocial .sideSocial ul li:hover:nth-child(1) a {
+      background: #3b5999; }
+    #sideSocial .sideSocial ul li:hover:nth-child(2) a {
+      background: #55acee; }
+    #sideSocial .sideSocial ul li:hover:nth-child(3) a {
+      background: #dd4b39; }
+    #sideSocial .sideSocial ul li:hover:nth-child(4) a {
+      background: #0077B5; }
+    #sideSocial .sideSocial ul li:hover:nth-child(5) a {
+      background: #e4405f; }
+    #sideSocial .sideSocial ul li:hover {
+      margin-left: -2%; }
+
+/*# sourceMappingURL=sideSocial.css.map */
